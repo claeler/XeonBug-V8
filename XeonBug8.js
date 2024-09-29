@@ -3028,7 +3028,7 @@ if (typemenu === 'v1') {
                             externalAdReply: {
                                 title: botname,
                                 body: ownername,
-                                thumbnailUrl: 'https://i.ibb.co/hFFgCL2/qris.jpg',
+                                thumbnailUrl: 'https://ibb.co/fXD0QzN',
                                 sourceUrl: link,
                                 mediaType: 1,
                                 renderLargerThumbnail: true
