@@ -3046,7 +3046,7 @@ if (typemenu === 'v1') {
       externalAdReply: {
       title: botname,
       body: ownername,
-      thumbnailUrl: 'https://i.ibb.co/1mr4Y16/anjay.jpg',
+      thumbnailUrl: 'https://ibb.co/fXD0QzN',
       sourceUrl: ``,
       mediaType: 1,
       renderLargerThumbnail: true
